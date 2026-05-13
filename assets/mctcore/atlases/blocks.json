@@ -7,8 +7,8 @@
     },
     {
       "type": "directory",
-      "source": "ss",
-      "prefix": "ss/"
+      "source": "mct",
+      "prefix": "mct/"
     }
   ]
 }
