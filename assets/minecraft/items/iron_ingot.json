@@ -7,18 +7,13 @@
       "model": "item/iron_ingot"
     },
     "entries": [
-        { "threshold": 1, "model": { "type": "model", "model": "mctcore:item/atm" } },
-        { "threshold": 2, "model": { "type": "model", "model": "mctcore:item/barricade" } },
-        { "threshold": 3, "model": { "type": "model", "model": "mctcore:item/bench" } },
-        { "threshold": 4, "model": { "type": "model", "model": "mctcore:item/marquee" } },
-        { "threshold": 5, "model": { "type": "model", "model": "mctcore:item/metroentrance" } },
-        { "threshold": 6, "model": { "type": "model", "model": "mctcore:item/mincemeat" } },
-        { "threshold": 7, "model": { "type": "model", "model": "mctcore:item/newsies" } },
-        { "threshold": 8, "model": { "type": "model", "model": "mctcore:item/outsiders" } },
-        { "threshold": 9, "model": { "type": "model", "model": "mctcore:item/streetlight" } },
-        { "threshold": 10, "model": { "type": "model", "model": "mctcore:item/trafficcone" } },
-        { "threshold": 11, "model": { "type": "model", "model": "mctcore:item/trashcan" } },
-        { "threshold": 12, "model": { "type": "model", "model": "mctcore:item/trashcontainer" } }
+        { "threshold": 1, "model": { "type": "model", "model": "mctcore:item/CityStuff/atm" } },
+        { "threshold": 2, "model": { "type": "model", "model": "mctcore:item/CityStuff/barricade" } },
+        { "threshold": 3, "model": { "type": "model", "model": "mctcore:item/CityStuff/metroentrance" } },
+        { "threshold": 4, "model": { "type": "model", "model": "mctcore:item/CityStuff/streetlight" } },
+        { "threshold": 5, "model": { "type": "model", "model": "mctcore:item/CityStuff/trafficcone" } },
+        { "threshold": 6, "model": { "type": "model", "model": "mctcore:item/CityStuff/trashcan" } },
+        { "threshold": 7, "model": { "type": "model", "model": "mctcore:item/CityStuff/trashcontainer" } }
     ] 
   } 
 }
