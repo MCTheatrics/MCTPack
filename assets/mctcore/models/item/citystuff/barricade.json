@@ -3,7 +3,7 @@
 	"credit": "MadewithBlockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "mctcore:item/CityStuff/barricade"
+		"1": "mctcore:item/citystuff/barricade"
 	},
 	"elements": [
 		{

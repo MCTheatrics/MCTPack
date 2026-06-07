@@ -2,11 +2,11 @@
 	"format_version": "1.21.11",
 	"credit": "MadewithBlockbench",
 	"textures": {
-		"1": "mctcore:item/CityStuff/atm_machine",
-		"2": "mctcore:item/CityStuff/atm_extra",
-		"3": "mctcore:item/CityStuff/atm_screen",
-		"4": "mctcore:item/CityStuff/atm_card_slot",
-		"particle": "mctcore:item/CityStuff/atm_extra"
+		"1": "mctcore:item/citystuff/atm_machine",
+		"2": "mctcore:item/citystuff/atm_extra",
+		"3": "mctcore:item/citystuff/atm_screen",
+		"4": "mctcore:item/citystuff/atm_card_slot",
+		"particle": "mctcore:item/citystuff/atm_extra"
 	},
 	"elements": [
 		{

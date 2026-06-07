@@ -4,7 +4,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "item/s_guitar",
-		"particle": "mctcore:item/Instruments/guitar"
+		"particle": "mctcore:item/instruments/guitar"
 	},
 	"elements": [
 		{
