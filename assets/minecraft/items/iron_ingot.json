@@ -13,7 +13,8 @@
         { "threshold": 4, "model": { "type": "model", "model": "mctcore:item/citystuff/streetlight" } },
         { "threshold": 5, "model": { "type": "model", "model": "mctcore:item/citystuff/trafficcone" } },
         { "threshold": 6, "model": { "type": "model", "model": "mctcore:item/citystuff/trashcan" } },
-        { "threshold": 7, "model": { "type": "model", "model": "mctcore:item/citystuff/trashcontainer" } }
+        { "threshold": 7, "model": { "type": "model", "model": "mctcore:item/citystuff/trashcontainer" } },
+        { "threshold": 8, "model": { "type": "model", "model": "mctcore:item/citystuff/bench" } }
     ] 
   } 
 }
