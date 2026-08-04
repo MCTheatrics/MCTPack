@@ -8,7 +8,7 @@
     },
     "entries": [
         { "threshold": 1, "model": { "type": "model", "model": "mctcore:item/spotlight/spotlight_model" } },
-        { "threshold": 1, "model": { "type": "model", "model": "mctcore:item/other/flag" } }
+        { "threshold": 2, "model": { "type": "model", "model": "mctcore:item/other/flag" } }
     ] 
   } 
 }
