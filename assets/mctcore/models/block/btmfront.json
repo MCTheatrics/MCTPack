@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "hpcore:block/parks/mk/ridecars/frontierland/btm/bigthunder",
-		"particle": "hpcore:block/parks/mk/ridecars/frontierland/btm/bigthunder"
+		"0": "mctcore:block/bigthunder",
+		"particle": "mctcore:block/bigthunder"
 	},
 	"elements": [
 		{
